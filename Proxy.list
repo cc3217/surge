@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,youtu.be
 //Twitter
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,x.com
 
 //Netflix
 USER-AGENT,Argo*
@@ -36,5 +37,11 @@ IP-CIDR,149.154.168.0/22,no-resolve
 IP-CIDR,149.154.172.0/22,no-resolve
 
 //Others
-DOMAIN-KEYWORD,motherless
-DOMAIN-KEYWORD,xvideos
+DOMAIN-SUFFIX,motherless.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,deathtubes.com
+DOMAIN-SUFFIX,rou.video
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,madou.club
+DOMAIN-SUFFIX,xgore.net
+DOMAIN-SUFFIX,github.com
