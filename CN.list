@@ -189,7 +189,6 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
-DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,taobao.com
@@ -304,3 +303,7 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,yuewen.com
+DOMAIN-SUFFIX,yigaosu.com
+DOMAIN-SUFFIX,netease.im
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,immersivetranslate.com
